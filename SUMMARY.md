@@ -5,6 +5,6 @@
 ## test
 
 * [grop test](test/grop-test.md)
-* wtff(https://google.com)
-* ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+* [https://google.com](https://google.com)
+* [what is this?@\#\#$\*@\#$\*!\)!$\*!\#\)\*!\#$\*\)\#!$\*!\#$\)\*!$\#\*\)!$\#\*\)!$\#\*\)](what-is-this-usd-usd-usd-usd-usd-usd-usd-usd-usd.md)
 
